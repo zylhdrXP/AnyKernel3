@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=FleurX-GKI by @ZylhdrXP
+kernel.string=FleurX by @ZylhdrXP
 '; } # end properties
 
 
