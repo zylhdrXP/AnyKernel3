@@ -3,9 +3,9 @@
 
 ### AnyKernel setup
 # global properties
-properties() { '
-kernel.string=FleurX by @ZylhdrXP
-'; } # end properties
+#properties() { '
+#kernel.string=FleurX by @ZylhdrXP
+#'; } # end properties
 
 
 ### AnyKernel install
